@@ -24,7 +24,3 @@ The information about the time stamp, predicted price, current real price and bu
 We have used Tableau to generate plots in real-time form the sql-database mentioned in previous section. 
 
 
-
-# Credits
-
-Credits for this code go to [sapphirine](https://github.com/Sapphirine/BITCOIN-PRICE-PREDICTION-USING-SENTIMENT-ANALYSIS). I've merely created a wrapper to get people started. 
